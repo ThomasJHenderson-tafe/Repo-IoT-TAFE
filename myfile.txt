@@ -1,1 +1,6 @@
 hello, world
+
+git add "filename"
+
+git commit -m "relevant comment"
+git push -u origin "branch"
